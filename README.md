@@ -1,2 +1,2 @@
 # landing-page
-Basic website landing page sample
+Basic website landing page sample. This landing page will put to test what i have learnt so far, writing HTML, CSS and using things such as flexbox etc. By the end i should have created a website landing page which looks neat, professional and apealing to the eye. Upon completion i have learnt alot more on how to stlye out a page and use more atributes and write my code alot easier and quicker it has been a big learning curve and i am keen to progress and learn more and improve my skill set.
